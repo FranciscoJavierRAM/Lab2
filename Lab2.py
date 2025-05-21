@@ -1,6 +1,7 @@
-# Step 1 ask for the users first pet's name
-print("What is your first pets name?")
-#Step 2 input the pets name and save it for later use
+# I want this program to ask the user for their first pets name. After that ask the user how old they were when they got said pet. Then print "Wow, you were only (age) when you first got (pets name). Thats awesome.".
+# Step 1 Ask for the users first pet's name
+print("What was your first pets name?")
+#Step 2 Input the pets name and save it for later use
 pet_name = input()
 #Step 3 Ask how old were you when you got (pets name)
 print ("How old were you when you got " + str(pet_name))
